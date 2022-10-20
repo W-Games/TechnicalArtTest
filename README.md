@@ -11,4 +11,6 @@ Make the artwork look like it's being lit up by the light sources. You can use t
 
 Your solution will be evaluated on visuals and technical merit.
 
+
+
 © WGames 2018
